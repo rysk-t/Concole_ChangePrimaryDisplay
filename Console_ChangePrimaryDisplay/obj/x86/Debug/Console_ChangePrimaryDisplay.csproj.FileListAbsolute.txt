@@ -1,0 +1,5 @@
+C:\Users\AYTJ_win\documents\visual studio 2010\Projects\Console_ChangePrimaryDisplay\Console_ChangePrimaryDisplay\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AYTJ_win\documents\visual studio 2010\Projects\Console_ChangePrimaryDisplay\Console_ChangePrimaryDisplay\bin\Debug\Console_ChangePrimaryDisplay.exe
+C:\Users\AYTJ_win\documents\visual studio 2010\Projects\Console_ChangePrimaryDisplay\Console_ChangePrimaryDisplay\bin\Debug\Console_ChangePrimaryDisplay.pdb
+C:\Users\AYTJ_win\documents\visual studio 2010\Projects\Console_ChangePrimaryDisplay\Console_ChangePrimaryDisplay\obj\x86\Debug\Console_ChangePrimaryDisplay.exe
+C:\Users\AYTJ_win\documents\visual studio 2010\Projects\Console_ChangePrimaryDisplay\Console_ChangePrimaryDisplay\obj\x86\Debug\Console_ChangePrimaryDisplay.pdb
